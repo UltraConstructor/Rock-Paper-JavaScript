@@ -1,6 +1,6 @@
-# Rock-Paper-JavaScript
-JS version of the popular game Rock, Paper, Scissors.
-Here is the code,  submit it into a javascript sandbox!:
+// Rock-Paper-JavaScript
+//JS version of the popular game Rock, Paper, Scissors
+//Here is the code,  submit it into a javascript sandbox!:
 
 var playerChoice = prompt("Do you choose rock, paper or scissors?");
 var computerChoice = Math.random();
